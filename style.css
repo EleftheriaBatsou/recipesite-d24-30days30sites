@@ -1,0 +1,163 @@
+a:link {
+  color: #B24900;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #B24900;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3a9b00;
+  text-decoration: underline;
+}
+
+.navbar {
+  background-color: white;
+}
+
+.distance {
+  margin-top: 60px;
+}
+
+.searchPos {
+  position: absolute;
+  top: 250px;
+  width: 50%;
+  margin: auto 25%;
+}
+
+.first-header {
+  background-color: white !important;
+  color: black;
+  height: 18px !important;
+}
+
+.title {
+  font-weight: 500;
+  margin-top: 11px;
+  margin-bottom: 5px;
+  padding-bottom: 5px !important;
+  font-size: 12px;
+}
+
+.titlePadding {
+  padding-right: 25px;
+}
+
+.header2 {
+  margin-top: 50px;
+  height: 28px;
+  color: black;
+  background: white;
+  width: 100%;
+  z-index: 1;
+  font-size: 12px;
+  font-weight: 400;
+  padding-top: 14px !important;
+}
+
+.header2Padding {
+  padding-right: 20px;
+}
+
+ul li {
+  color: black !important;
+}
+
+li:hover {
+  color: black !important;
+}
+
+.nav-tabs {
+  color: black !important;
+}
+
+.oprah-img {
+  margin: auto;
+  display: block;
+  padding-top: 20px;
+}
+
+.after-oprah {
+  margin: 2.5rem auto;
+}
+
+.in3 {
+  color: #fbb717;
+  font-weight: bolder;
+  font-size: 16px;
+}
+
+.btnWhite {
+  background-color: white;
+  color: #fbb717 !important;
+  border-radius: 50px !important;
+  font-weight: 600 !important;
+  border: white 2px solid !important;
+}
+
+.middle-img {
+  margin: auto;
+  display: block;
+  width: 100%;
+  padding-top: 40px;
+}
+
+.partwith4 {
+  padding-top: 40px;
+}
+
+.prefooter {
+  text-align: center !important;
+  color: white;
+  background: #fbb717;
+}
+
+a {
+  color: black;
+  font-weight: 600;
+  font-size: 14px !important;
+}
+
+.favicons {
+  height: 24px;
+  width: 24px;
+}
+
+#footer {
+  margin-top: 50px;
+}
+
+#custom-search-input {
+  padding: 3px;
+  border: solid 1px #E4E4E4;
+  border-radius: 6px;
+  background-color: #fff;
+}
+
+#custom-search-input input {
+  border: 0;
+  box-shadow: none;
+}
+
+#custom-search-input button {
+  margin: 2px 0 0 0;
+  background: none;
+  box-shadow: none;
+  border: 0;
+  color: #666666;
+  padding: 0 8px 0 10px;
+  border-left: solid 1px #ccc;
+}
+
+#custom-search-input button:hover {
+  border: 0;
+  box-shadow: none;
+  border-left: solid 1px #ccc;
+}
+
+#custom-search-input .glyphicon-search {
+  font-size: 23px;
+}
